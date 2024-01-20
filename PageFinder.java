@@ -11,7 +11,7 @@ import java.lang.Math;
  * Project 4-1
  *
  */
-public class Project4_1 {
+public class PageFinder {
 
     /**
      * decompose a virtual address into a page number and an offset within the
